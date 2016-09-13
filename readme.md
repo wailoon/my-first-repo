@@ -1,7 +1,7 @@
 My first repo!
 
 
-New line!
+New!
 
 Another Line!
 
